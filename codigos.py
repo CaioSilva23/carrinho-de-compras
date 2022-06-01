@@ -76,6 +76,3 @@ def leiafloat(msg):
             print('Entrada de dados interrompida pelo usuário!')
         else:
             return n
-
-
-
